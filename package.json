@@ -1,5 +1,5 @@
 {
-  "name": "smartschool-client",
+  "name": "@maartennnn/smartschool-client",
   "version": "1.0.0",
   "description": "Client voor toegang tot de SmartSchool SOAP WebServices API met Node.js",
   "main": "index.js",
